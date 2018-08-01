@@ -1,4 +1,4 @@
-# JmwNgCypress
+# JMW NG Cypress Test (WIP)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
 
@@ -21,6 +21,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Running Cypress
+
+Run `yarn cypress:execute` to execute the Cypress Test Runner Suite [Cypress](https://www.cypress.io/).
 
 ## Further help
 
