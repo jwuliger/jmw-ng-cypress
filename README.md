@@ -1,6 +1,6 @@
-# JMW NG Cypress Test (WIP)
+# JMW Cypress Testing Framework Example
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.0-beta.3.
 
 ## Development server
 
@@ -14,7 +14,11 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## Running the Cypress testing framework
+
+Run `yarn start` and then run `yarn cypress:open` to execute the unit tests via [Cypress](https://www.cypress.io/).
+
+## Running default Angular unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
@@ -22,9 +26,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Running Cypress
+## Running Cypress end-to-end tests
 
-Run `yarn cypress:execute` to execute the Cypress Test Runner Suite [Cypress](https://www.cypress.io/).
+- Coming soon
 
 ## Further help
 
